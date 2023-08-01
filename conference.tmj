@@ -324,7 +324,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"office.tmj#from-byh2-c"
+                         "value":"byh2"
                         }],
                  "rotation":0,
                  "type":"area",
