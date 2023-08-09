@@ -44,7 +44,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":14,
          "id":62,
-         "name":"entry-from-map",
+         "name":"entry-from-byh2-c",
          "opacity":1,
          "properties":[
                 {
@@ -75,13 +75,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":14,
          "id":63,
-         "name":"exit-to-map",
+         "name":"exit-to-byh2-c",
          "opacity":1,
          "properties":[
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"byh2#entry-from-conference"
+                 "value":"byh2#entry-from-byh2-c"
                 }],
          "type":"tilelayer",
          "visible":true,
