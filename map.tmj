@@ -1222,6 +1222,39 @@
                  "width":0,
                  "x":287,
                  "y":528.5
+                }, 
+                {
+                 "height":0,
+                 "id":22,
+                 "name":"websiteURL",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/18uWwhfg43QlEozm6fflpWQf98xZoD3LSGNNGHBwKBxw\/edit#gid=0"
+                        }, 
+                        {
+                         "name":"description",
+                         "type":"string",
+                         "value":"Please record your time."
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Website URL"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":false
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":416,
+                 "y":418
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1382,7 +1415,7 @@
          "y":0
         }],
  "nextlayerid":69,
- "nextobjectid":22,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "properties":[
         {
