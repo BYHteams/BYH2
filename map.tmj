@@ -1199,12 +1199,12 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"https:\/\/www.timeclockwizard.com\/free-online-time-card-calculator-breaks"
+                         "value":"https:\/\/app.clockify.me\/tracker#"
                         }, 
                         {
                          "name":"description",
                          "type":"string",
-                         "value":"Test the website to embed with an iframe tester like https:\/\/iframetester.com\/"
+                         "value":"Please record your time."
                         }, 
                         {
                          "name":"label",
