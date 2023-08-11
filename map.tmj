@@ -1186,6 +1186,50 @@
          "y":0
         }, 
         {
+         "draworder":"topdown",
+         "id":68,
+         "name":"configuration",
+         "objects":[
+                {
+                 "height":0,
+                 "id":21,
+                 "name":"websiteURL",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"https:\/\/www.timeclockwizard.com\/free-online-time-card-calculator-breaks"
+                        }, 
+                        {
+                         "name":"description",
+                         "type":"string",
+                         "value":"Test the website to embed with an iframe tester like https:\/\/iframetester.com\/"
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"Website URL"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":false
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":287,
+                 "y":528.5
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
          "id":51,
          "layers":[
                 {
@@ -1337,8 +1381,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":68,
- "nextobjectid":21,
+ "nextlayerid":69,
+ "nextobjectid":22,
  "orientation":"orthogonal",
  "properties":[
         {
