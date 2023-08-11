@@ -1232,7 +1232,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/18uWwhfg43QlEozm6fflpWQf98xZoD3LSGNNGHBwKBxw\/edit#gid=0"
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/18uWwhfg43QlEozm6fflpWQf98xZoD3LSGNNGHBwKBxw\/edit?usp=sharing"
                         }, 
                         {
                          "name":"description",
