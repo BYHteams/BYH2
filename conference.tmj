@@ -793,13 +793,26 @@
         {
          "columns":8,
          "firstgid":2956,
-         "image":"G:\/BYH\/BYH.N\/5- Operation Accessibility (COO)\/Tilesets\/All 1.png",
+         "image":"tilesets\/All 1.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
          "name":"All 1",
          "spacing":0,
-         "tilecount":0,
+         "tilecount":1064,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":8,
+         "firstgid":4020,
+         "image":"tilesets\/All 1.png",
+         "imageheight":4256,
+         "imagewidth":256,
+         "margin":0,
+         "name":"All 1",
+         "spacing":0,
+         "tilecount":1064,
          "tileheight":32,
          "tilewidth":32
         }],
