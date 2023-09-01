@@ -140,7 +140,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"Second#entry-from-conference"
+                 "value":"second#entry-from-conference"
                 }],
          "type":"tilelayer",
          "visible":true,
