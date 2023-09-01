@@ -102,7 +102,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"byh2#entry-from-byh2-c"
+                 "value":"byh2#entry-from-conference"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -140,7 +140,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"byh2#entry-from-Second"
+                 "value":"Second#entry-from-conference"
                 }],
          "type":"tilelayer",
          "visible":true,
