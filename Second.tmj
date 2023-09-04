@@ -1319,6 +1319,19 @@
          "tilecount":64,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":64,
+         "firstgid":12566,
+         "image":"tilesets\/Water.png",
+         "imageheight":1536,
+         "imagewidth":2048,
+         "margin":0,
+         "name":"Water",
+         "spacing":0,
+         "tilecount":3072,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
