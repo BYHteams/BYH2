@@ -3666,7 +3666,7 @@
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":93.7162209047986,
+                 "width":83.7162209047987,
                  "x":803.919325398621,
                  "y":14.0269116471316
                 }, 
@@ -3703,7 +3703,7 @@
                  "y":96
                 }, 
                 {
-                 "height":128,
+                 "height":163,
                  "id":14,
                  "name":"silentZone",
                  "properties":[
@@ -3715,12 +3715,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":143,
-                 "x":953,
-                 "y":547
+                 "width":293,
+                 "x":734,
+                 "y":442
                 }, 
                 {
-                 "height":228,
+                 "height":353,
                  "id":16,
                  "name":"jitsiMeetingRoom",
                  "properties":[
