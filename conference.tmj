@@ -105,7 +105,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":24,
          "id":62,
-         "name":"entry-from-byh2-c",
+         "name":"entry-from-building",
          "opacity":1,
          "properties":[
                 {
@@ -146,13 +146,13 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":24,
          "id":63,
-         "name":"exit-to-byh2-c",
+         "name":"exit-to-building",
          "opacity":1,
          "properties":[
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"byh2#entry-from-conference"
+                 "value":"building#entry-from-conference"
                 }],
          "type":"tilelayer",
          "visible":true,
