@@ -1840,17 +1840,8 @@
          "tilewidth":32
         }, 
         {
-         "columns":32,
          "firstgid":25393,
-         "image":"tilesets\/test-83.png",
-         "imageheight":2016,
-         "imagewidth":1024,
-         "margin":0,
-         "name":"test-83",
-         "spacing":0,
-         "tilecount":2016,
-         "tileheight":32,
-         "tilewidth":32
+         "source":"tilesets\/test-83.tsx"
         }, 
         {
          "columns":14,
