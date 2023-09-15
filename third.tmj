@@ -1840,12 +1840,8 @@
          "tilewidth":32
         }, 
         {
-         "firstgid":25393,
-         "source":"tilesets\/test-83.tsx"
-        }, 
-        {
          "columns":14,
-         "firstgid":27409,
+         "firstgid":27268,
          "image":"tilesets\/test-85'.png",
          "imageheight":960,
          "imagewidth":448,
@@ -1855,11 +1851,10 @@
          "tilecount":420,
          "tileheight":32,
          "tilewidth":32
-        },
-    
+        }, 
         {
          "columns":16,
-         "firstgid":27829,
+         "firstgid":27688,
          "image":"tilesets\/test-86'.png",
          "imageheight":512,
          "imagewidth":512,
@@ -1867,6 +1862,20 @@
          "name":"test-86'",
          "spacing":0,
          "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
+        },
+    
+        {
+         "columns":32,
+         "firstgid":27944,
+         "image":"tilesets\/test-83.png",
+         "imageheight":2016,
+         "imagewidth":1024,
+         "margin":0,
+         "name":"test-83",
+         "spacing":0,
+         "tilecount":2016,
          "tileheight":32,
          "tilewidth":32
         }],
