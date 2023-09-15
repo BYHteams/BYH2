@@ -3448,7 +3448,7 @@
                  "visible":true,
                  "width":293,
                  "x":734,
-                 "y":442
+                 "y":414
                 }, 
                 {
                  "height":353,
@@ -3519,12 +3519,44 @@
                  "width":64.5,
                  "x":576.5,
                  "y":499
+                }, 
+                {
+                 "height":184,
+                 "id":24,
+                 "name":"Friendly-meeting",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"ourMeeting"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onicon"
+                        }, 
+                        {
+                         "name":"zoomMargin",
+                         "type":"int",
+                         "value":2
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":420,
+                 "x":608.606060606061,
+                 "y":1357.66666666667
                 }],
          "offsetx":0.393939393939377,
          "offsety":0.333333333333332,
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -3903,8 +3935,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":146,
- "nextobjectid":23,
+ "nextlayerid":147,
+ "nextobjectid":25,
  "orientation":"orthogonal",
  "properties":[
         {
