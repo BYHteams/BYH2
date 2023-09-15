@@ -863,7 +863,22 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"autoClose",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
+                 "name":"autoOpen",
+                 "type":"bool",
+                 "value":true
+                }, 
+                {
                  "name":"doorVariable",
+                 "type":"string",
+                 "value":"opened_door"
+                }, 
+                {
+                 "name":"zone",
                  "type":"string",
                  "value":"door_open_zone1"
                 }],
