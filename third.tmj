@@ -835,62 +835,35 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":320,
-                 "id":18,
-                 "name":"jitsiConference",
+                 "height":563.948765013367,
+                 "id":24,
+                 "name":"playSound",
                  "properties":[
                         {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"Conference"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":219.090909090909,
-                 "x":352,
-                 "y":96
-                }, 
-                {
-                 "height":71.612250966399,
-                 "id":19,
-                 "name":"website",
-                 "properties":[
-                        {
-                         "name":"dynamic",
+                         "name":"audioLoop",
                          "type":"bool",
                          "value":true
                         }, 
                         {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"{{{ websiteURL }}}"
+                         "name":"audioVolume",
+                         "type":"int",
+                         "value":7
                         }, 
                         {
-                         "name":"openWebsiteTrigger",
+                         "name":"playAudio",
                          "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE or touch here to open a custom website"
+                         "value":"file:\/\/\/C:\/Users\/Dearuser\/Downloads\/Music\/skyclad_AMBPark_Quiet_People_Distant_Left_Gate_slam_and_Door_Car_distant_Right_as_people_leave_Traffic_Hum_Diffuse_and_Vehicles_Individual_Distant_Wind_Gentle_Birds_Incl_Bluetit_Pigeon_Insect_Buzz_SCS_NONE_445.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":576,
-                 "y":96
+                 "width":924.71968397111,
+                 "x":354.258808507242,
+                 "y":59.9114161446072
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -1201,7 +1174,7 @@
          "y":0
         }],
  "nextlayerid":80,
- "nextobjectid":24,
+ "nextobjectid":25,
  "orientation":"orthogonal",
  "properties":[
         {
