@@ -219,6 +219,12 @@
          "id":7,
          "name":"collisions",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"colides",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":51,
