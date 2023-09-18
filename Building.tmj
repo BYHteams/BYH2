@@ -3526,61 +3526,7 @@
                  "y":1357.66666666667
                 }, 
                 {
-                 "height":1918,
-                 "id":25,
-                 "name":"soundEffect",
-                 "properties":[
-                        {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":5
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"https:\/\/www.zamzar.com\/download.php?uid=bd9b9f2acde2bac4585cd3fc9f3c4e69-60d2dce724f8c36&tcs=Z93&fileID=p1hajv9l3i12bt121s1vcf99f12h24.ogg"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":320,
-                 "x":1317.60606060606,
-                 "y":1.66666666666667
-                }, 
-                {
-                 "height":1160,
-                 "id":26,
-                 "name":"soundEffect",
-                 "properties":[
-                        {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":5
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"https:\/\/www.zamzar.com\/download.php?uid=bd9b9f2acde2bac4585cd3fc9f3c4e69-60d2dce724f8c36&tcs=Z93&fileID=p1hajv9l3i12bt121s1vcf99f12h24.ogg"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":1292,
-                 "x":19.6060606060605,
-                 "y":753.666666666667
-                }, 
-                {
-                 "height":1212,
+                 "height":1188,
                  "id":27,
                  "name":"mainSoundEffect",
                  "properties":[
@@ -3602,9 +3548,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":1612,
+                 "width":1628,
                  "x":3.60606060606051,
-                 "y":701.666666666667
+                 "y":725.666666666667
                 }],
          "offsetx":0.393939393939377,
          "offsety":0.333333333333332,
