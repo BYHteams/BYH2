@@ -3611,6 +3611,33 @@
                  "width":420,
                  "x":608.606060606061,
                  "y":1357.66666666667
+                }, 
+                {
+                 "height":1246,
+                 "id":28,
+                 "name":"audio",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"int",
+                         "value":5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"https:\/\/www.zamzar.com\/download.php?uid=f88f5a25671d697b5a927117ad7583a-a3cc7d3ad4fdf73&tcs=Z87&fileID=p1hak13hfn1g0dhljt491cft12jk4.ac3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1632,
+                 "x":3.60606060606062,
+                 "y":683.666666666667
                 }],
          "offsetx":0.393939393939377,
          "offsety":0.333333333333332,
@@ -3996,7 +4023,7 @@
          "y":0
         }],
  "nextlayerid":148,
- "nextobjectid":28,
+ "nextobjectid":29,
  "orientation":"orthogonal",
  "properties":[
         {
