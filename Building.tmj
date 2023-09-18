@@ -1,7 +1,7 @@
 { "compressionlevel":-1,
  "height":60,
  "infinite":false,
- "layers":[ 
+ "layers":[
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 6550, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -80,7 +80,7 @@
          "width":51,
          "x":0,
          "y":0
-        },
+        }, 
         {
          "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,
@@ -3494,33 +3494,6 @@
                  "y":96.3333333333333
                 }, 
                 {
-                 "height":72,
-                 "id":20,
-                 "name":"",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/www.timeclockwizard.com\/free-online-time-card-calculator-breaks"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Please record your time."
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":64.5,
-                 "x":576.5,
-                 "y":499
-                }, 
-                {
                  "height":184,
                  "id":24,
                  "name":"Friendly-meeting",
@@ -3551,6 +3524,87 @@
                  "width":420,
                  "x":608.606060606061,
                  "y":1357.66666666667
+                }, 
+                {
+                 "height":1918,
+                 "id":25,
+                 "name":"soundEffect",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"int",
+                         "value":5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"https:\/\/www.zamzar.com\/download.php?uid=d240de15649cea1affd8af777ee7d14e-b5b1fee5aca4d6c9&tcs=Z92&fileID=p1haju489aukdgev1kd21c8d1ph14.wav"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":320,
+                 "x":1317.60606060606,
+                 "y":1.66666666666667
+                }, 
+                {
+                 "height":1160,
+                 "id":26,
+                 "name":"soundEffect",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"int",
+                         "value":5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"https:\/\/www.zamzar.com\/download.php?uid=d240de15649cea1affd8af777ee7d14e-b5b1fee5aca4d6c9&tcs=Z92&fileID=p1haju489aukdgev1kd21c8d1ph14.wav"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1292,
+                 "x":19.6060606060605,
+                 "y":753.666666666667
+                }, 
+                {
+                 "height":1212,
+                 "id":27,
+                 "name":"mainSoundEffect",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"int",
+                         "value":5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"https:\/\/www.zamzar.com\/download.php?uid=b36040708b246bc13a934f65824ccf-3c82b4ef43b5ace0&tcs=Z95&fileID=p1hajudcfo3601ts01pnr1ap2ijp5.wav"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1612,
+                 "x":3.60606060606051,
+                 "y":701.666666666667
                 }],
          "offsetx":0.393939393939377,
          "offsety":0.333333333333332,
@@ -3936,7 +3990,7 @@
          "y":0
         }],
  "nextlayerid":147,
- "nextobjectid":25,
+ "nextobjectid":28,
  "orientation":"orthogonal",
  "properties":[
         {
