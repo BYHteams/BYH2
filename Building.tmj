@@ -3528,7 +3528,7 @@
                 {
                  "height":1188,
                  "id":27,
-                 "name":"mainSoundEffect",
+                 "name":"SoundEffect",
                  "properties":[
                         {
                          "name":"audioLoop",
@@ -3538,12 +3538,12 @@
                         {
                          "name":"audioVolume",
                          "type":"int",
-                         "value":5
+                         "value":7
                         }, 
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"https:\/\/www.zamzar.com\/download.php?uid=b133930b51830b6a8f745b524a22711-b117f2e62361ed26&tcs=Z87&fileID=p1hajt2fb614h21m9ur2l128uo624.ogg"
+                         "value":"https:\/\/www.zamzar.com\/download.php?uid=bd9b9f2acde2bac4585cd3fc9f3c4e69-60d2dce724f8c36&tcs=Z93&fileID=p1hajv9l3i12bt121s1vcf99f12h24.ogg"
                         }],
                  "rotation":0,
                  "type":"area",
