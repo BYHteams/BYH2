@@ -3581,38 +3581,6 @@
                  "y":96.3333333333333
                 }, 
                 {
-                 "height":184,
-                 "id":24,
-                 "name":"Friendly-meeting",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ourMeeting"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onicon"
-                        }, 
-                        {
-                         "name":"zoomMargin",
-                         "type":"int",
-                         "value":2
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":420,
-                 "x":608.606060606061,
-                 "y":1357.66666666667
-                }, 
-                {
                  "height":1246,
                  "id":28,
                  "name":"audio",
@@ -4008,7 +3976,7 @@
                  "name":"above 3",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":51,
                  "x":0,
                  "y":0
