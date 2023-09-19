@@ -877,7 +877,7 @@
                  "value":"door_open_zone1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
