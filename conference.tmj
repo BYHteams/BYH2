@@ -953,7 +953,6 @@
          "y":0
         }, 
         {
-         "class":"area",
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
@@ -1200,36 +1199,36 @@
                 {
                  "height":127.333333333333,
                  "id":32,
-                 "name":"",
+                 "name":"zonedoor",
+                 "properties":[
+                        {
+                         "name":"autoClose",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"autoOpen",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"doorVariable",
+                         "type":"string",
+                         "value":"Door"
+                        }, 
+                        {
+                         "name":"zone",
+                         "type":"string",
+                         "value":"door_open_zone1"
+                        }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":64,
                  "x":896.333333333333,
                  "y":224.333333333333
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"autoClose",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
-                 "name":"autoOpen",
-                 "type":"bool",
-                 "value":true
-                }, 
-                {
-                 "name":"doorVariable",
-                 "type":"string",
-                 "value":"Door"
-                }, 
-                {
-                 "name":"zone",
-                 "type":"string",
-                 "value":"door_open_zone1"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
