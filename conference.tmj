@@ -1454,12 +1454,17 @@
                         {
                          "name":"autoClose",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }, 
                         {
                          "name":"autoOpen",
                          "type":"bool",
                          "value":false
+                        }, 
+                        {
+                         "name":"code",
+                         "type":"string",
+                         "value":"0440"
                         }, 
                         {
                          "name":"doorVariable",
