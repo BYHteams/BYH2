@@ -3414,7 +3414,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.1001games.com\/"
+                         "value":"https:\/\/www.agame.com\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -3490,7 +3490,7 @@
                 {
                  "height":1190,
                  "id":34,
-                 "name":"",
+                 "name":"sound",
                  "properties":[
                         {
                          "name":"audioLoop",
@@ -3508,7 +3508,7 @@
                          "value":"https:\/\/www.zamzar.com\/download.php?uid=f4f4b42e4febcafcdc2919af2f83e6fb-1588e303767d76&tcs=Z93&fileID=p1hap6on523tnls0b1j4aoni4.wav"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":1614,
                  "x":7.60606060606051,
