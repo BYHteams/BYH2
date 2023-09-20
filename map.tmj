@@ -3412,17 +3412,17 @@
                  "name":"gameWebsite",
                  "properties":[
                         {
-                         "name":"opneWebsite",
+                         "name":"openWebsite",
                          "type":"string",
                          "value":"https:\/\/www.crazygames.com\/game\/drift-escape"
                         }, 
                         {
-                         "name":"websiteTrigger",
+                         "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
                         }, 
                         {
-                         "name":"websiteTriggerMessage",
+                         "name":"openWebsiteTriggerMessage",
                          "type":"string",
                          "value":"Come to fight with press space:)"
                         }],
