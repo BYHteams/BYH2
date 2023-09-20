@@ -1203,7 +1203,7 @@
                         {
                          "name":"audioVolume",
                          "type":"int",
-                         "value":5
+                         "value":1
                         }, 
                         {
                          "name":"playAudio",
