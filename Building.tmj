@@ -3579,6 +3579,36 @@
                  "width":50.2727272727272,
                  "x":758.484848484849,
                  "y":96.3333333333333
+<<<<<<< HEAD
+=======
+                }, 
+                {
+                 "height":1246,
+                 "id":28,
+                 "name":"audio",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"int",
+                         "value":5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"https:\/\/sendeyo.com\/en\/1dcb9286ba"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1632,
+                 "x":3.60606060606062,
+                 "y":683.666666666667
+>>>>>>> a3d120bc98e2d6b286cd11c7a94f61b869981d09
                 }],
          "offsetx":0.393939393939377,
          "offsety":0.333333333333332,

@@ -3398,21 +3398,6 @@
                          "name":"chatDescription",
                          "type":"string",
                          "value":"CoolGames"
-                        }, 
-                        {
-                         "name":"chatLabel",
-                         "type":"string",
-                         "value":"Just paly No more thinking"
-                        }, 
-                        {
-                         "name":"chatTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"chatTriggerMessage",
-                         "type":"string",
-                         "value":"No Business talking"
                         }],
                  "rotation":0,
                  "type":"area",
