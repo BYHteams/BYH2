@@ -1343,33 +1343,6 @@
                  "y":69.2063177699658
                 }, 
                 {
-                 "height":568.100212902906,
-                 "id":31,
-                 "name":"soundEffect",
-                 "properties":[
-                        {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"float",
-                         "value":0.8
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"https:\/\/www.zamzar.com\/download.php?uid=b133930b51830b6a8f745b524a22711-b117f2e62361ed26&tcs=Z87&fileID=p1hajt2fb614h21m9ur2l128uo624.ogg"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":705.752339456355,
-                 "x":580.268356686637,
-                 "y":31.9413774322919
-                }, 
-                {
                  "height":0,
                  "id":44,
                  "name":"Door2",
@@ -1406,6 +1379,33 @@
                  "width":0,
                  "x":705,
                  "y":290
+                }, 
+                {
+                 "height":364.283804525425,
+                 "id":45,
+                 "name":"sound",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":0.5
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"https:\/\/www.zamzar.com\/download.php?uid=ee2e91f856972edb5d6a872d91a8acb-87e1ef2a2586224&tcs=Z87&fileID=p1hap6ioso1uk51vcb13df1pa515434.wav"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":228.913204931426,
+                 "x":347.552606822795,
+                 "y":80.613952567213
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1614,7 +1614,7 @@
          "y":0
         }],
  "nextlayerid":92,
- "nextobjectid":45,
+ "nextobjectid":46,
  "orientation":"orthogonal",
  "properties":[
         {
