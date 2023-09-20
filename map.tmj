@@ -3414,7 +3414,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.agame.com\/"
+                         "value":"https:\/\/freegames.org\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -3459,60 +3459,6 @@
                  "width":1602,
                  "x":23.6060606060605,
                  "y":753.666666666667
-                }, 
-                {
-                 "height":738,
-                 "id":32,
-                 "name":"sound",
-                 "properties":[
-                        {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"float",
-                         "value":1.1
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"https:\/\/www.zamzar.com\/download.php?uid=f4f4b42e4febcafcdc2919af2f83e6fb-1588e303767d76&tcs=Z93&fileID=p1hap6on523tnls0b1j4aoni4.wav"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":300,
-                 "x":1319.60606060606,
-                 "y":-2.33333333333333
-                }, 
-                {
-                 "height":1190,
-                 "id":34,
-                 "name":"sound",
-                 "properties":[
-                        {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"float",
-                         "value":1.1
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"https:\/\/www.zamzar.com\/download.php?uid=f4f4b42e4febcafcdc2919af2f83e6fb-1588e303767d76&tcs=Z93&fileID=p1hap6on523tnls0b1j4aoni4.wav"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":1614,
-                 "x":7.60606060606051,
-                 "y":739.666666666667
                 }],
          "offsetx":0.393939393939377,
          "offsety":0.333333333333332,
