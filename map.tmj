@@ -3383,7 +3383,121 @@
          "draworder":"topdown",
          "id":2,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":172,
+                 "id":29,
+                 "name":"chatZoon",
+                 "properties":[
+                        {
+                         "name":"chatDescription",
+                         "type":"string",
+                         "value":"Arguing about the game"
+                        }, 
+                        {
+                         "name":"chatName",
+                         "type":"string",
+                         "value":"chatZoon"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":434,
+                 "x":599.606060606061,
+                 "y":1353.66666666667
+                }, 
+                {
+                 "height":178,
+                 "id":30,
+                 "name":"gameWebsite",
+                 "properties":[
+                        {
+                         "name":"opneWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.crazygames.com\/game\/drift-escape"
+                        }, 
+                        {
+                         "name":"websiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"websiteTriggerMessage",
+                         "type":"string",
+                         "value":"Come to fight with press space:)"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":434,
+                 "x":595.606060606061,
+                 "y":1343.66666666667
+                }, 
+                {
+                 "height":1184,
+                 "id":31,
+                 "name":"mainSound",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":3.6
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"https:\/\/www.zamzar.com\/uploadComplete.php?session=24bc212c25a4fa2a9f3155d359325a5c&tcs=Z91&from=mp3&to=ogg#modalExceed"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":1602,
+                 "x":23.6060606060605,
+                 "y":753.666666666667
+                }, 
+                {
+                 "height":738,
+                 "id":32,
+                 "name":"sound",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"float",
+                         "value":3.6
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"https:\/\/www.zamzar.com\/uploadComplete.php?session=24bc212c25a4fa2a9f3155d359325a5c&tcs=Z91&from=mp3&to=ogg#modalExceed"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":300,
+                 "x":1319.60606060606,
+                 "y":-2.33333333333333
+                }, 
+                {
+                 "height":0,
+                 "id":33,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":2707.60606060606,
+                 "y":-162.333333333333
+                }],
          "offsetx":0.393939393939377,
          "offsety":0.333333333333332,
          "opacity":1,
@@ -3697,7 +3811,7 @@
          "y":0
         }],
  "nextlayerid":143,
- "nextobjectid":29,
+ "nextobjectid":34,
  "orientation":"orthogonal",
  "properties":[
         {
