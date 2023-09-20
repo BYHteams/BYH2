@@ -3414,7 +3414,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/www.crazygames.com\/game\/drift-escape"
+                         "value":"https:\/\/www.1001games.com\/"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
@@ -3451,7 +3451,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"https:\/\/www.zamzar.com\/uploadComplete.php?session=24bc212c25a4fa2a9f3155d359325a5c&tcs=Z91&from=mp3&to=ogg#modalExceed"
+                         "value":"https:\/\/www.zamzar.com\/download.php?uid=b670a5f9fe62fd4abee4798eaacd03c-a5cdf8b3a5d308f&tcs=Z86&fileID=p1hap5gp9q1ugnf631te11n86o294.wav"
                         }],
                  "rotation":0,
                  "type":"area",
