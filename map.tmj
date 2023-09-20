@@ -3434,61 +3434,6 @@
                  "y":923.666666666667
                 }, 
                 {
-                 "height":1906,
-                 "id":26,
-                 "name":"sound2",
-                 "properties":[
-                        {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":3
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"https:\/\/www.zamzar.com\/download.php?uid=851f212ff07db7d6e376d0d6d9d3a-ec97632f95b2bc38&tcs=Z95&fileID=p1haorkto013jfolv188qdad12104.ogg"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":304,
-                 "x":1319.60606060606,
-                 "y":7.66666666666667
-                }, 
-                {
-                 "ellipse":true,
-                 "height":894,
-                 "id":27,
-                 "name":"sound3",
-                 "properties":[
-                        {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":3
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"https:\/\/www.zamzar.com\/download.php?uid=851f212ff07db7d6e376d0d6d9d3a-ec97632f95b2bc38&tcs=Z95&fileID=p1haorkto013jfolv188qdad12104.ogg"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":1592,
-                 "x":25.6060606060606,
-                 "y":933.666666666667
-                }, 
-                {
                  "height":220,
                  "id":28,
                  "name":"openWebsite",
