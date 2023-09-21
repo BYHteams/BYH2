@@ -833,8 +833,8 @@
                         }, 
                         {
                          "name":"audioVolume",
-                         "type":"float",
-                         "value":0.5
+                         "type":"int",
+                         "value":1
                         }, 
                         {
                          "name":"playAudio",
