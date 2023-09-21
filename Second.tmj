@@ -822,28 +822,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":320,
-                 "id":18,
-                 "name":"jitsiConference",
-                 "properties":[
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"Conference"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":219.090909090909,
-                 "x":352,
-                 "y":96
-                }, 
-                {
                  "height":71.612250966399,
                  "id":19,
                  "name":"website",
@@ -874,10 +852,37 @@
                  "width":96,
                  "x":576,
                  "y":96
+                }, 
+                {
+                 "height":385.516938669646,
+                 "id":24,
+                 "name":"sound",
+                 "properties":[
+                        {
+                         "name":"audioLoop",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"audioVolume",
+                         "type":"int",
+                         "value":1
+                        }, 
+                        {
+                         "name":"playAudio",
+                         "type":"string",
+                         "value":"https:\/\/www.zamzar.com\/download.php?uid=f58da3e07b2c47f363debe81525ba6-48f9d5bd6d9e188a&tcs=Z87&fileID=p1hardjlqfhdt3ma1ok71j9om2g4.mp3"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":250.06504129923,
+                 "x":338.62974342604,
+                 "y":67.7259486852081
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -927,7 +932,7 @@
                  "value":"editor"
                 }],
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -1056,7 +1061,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":24,
+ "nextobjectid":25,
  "orientation":"orthogonal",
  "properties":[
         {
