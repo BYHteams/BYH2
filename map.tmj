@@ -3474,53 +3474,42 @@
          "name":"configuration",
          "objects":[
                 {
-                 "height":0,
-                 "id":21,
-                 "name":"websiteURL",
-                 "point":true,
+                 "height":111.6123,
+                 "id":35,
+                 "name":"website",
                  "properties":[
                         {
-                         "name":"default",
-                         "type":"string",
-                         "value":"https:\/\/app.clockify.me\/tracker#"
-                        }, 
-                        {
-                         "name":"description",
-                         "type":"string",
-                         "value":"Please record your time."
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Website URL"
-                        }, 
-                        {
-                         "name":"persist",
+                         "name":"dynamic",
                          "type":"bool",
-                         "value":false
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"{{{ websiteURL }}}"
                         }],
                  "rotation":0,
-                 "type":"variable",
+                 "type":"area",
                  "visible":true,
-                 "width":0,
-                 "x":561,
-                 "y":418
+                 "width":440,
+                 "x":511.606060606061,
+                 "y":695.860516666667
                 }, 
                 {
                  "height":0,
-                 "id":22,
+                 "id":36,
                  "name":"websiteURL",
                  "point":true,
                  "properties":[
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/18uWwhfg43QlEozm6fflpWQf98xZoD3LSGNNGHBwKBxw\/edit?usp=sharing"
+                         "value":"https:\/\/drive.google.com\/file\/d\/1uysD_kv0xT8pRHcnI3i1UYQ5e5RnCn9a\/view?usp=sharing"
                         }, 
                         {
                          "name":"description",
                          "type":"string",
-                         "value":"Please record your time."
+                         "value":"BYH Company Teaser"
                         }, 
                         {
                          "name":"label",
@@ -3536,8 +3525,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":736,
-                 "y":418
+                 "x":721.606060606061,
+                 "y":751.666666666667
                 }],
          "offsetx":0.393939393939377,
          "offsety":0.333333333333332,
@@ -3773,7 +3762,7 @@
          "y":0
         }],
  "nextlayerid":143,
- "nextobjectid":35,
+ "nextobjectid":37,
  "orientation":"orthogonal",
  "properties":[
         {
