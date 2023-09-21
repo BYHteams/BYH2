@@ -1960,7 +1960,12 @@
                         {
                          "name":"openWebsiteTrigger",
                          "type":"string",
-                         "value":"onicon"
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"DO some"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1982,7 +1987,12 @@
                         {
                          "name":"openWebsiteTrigger",
                          "type":"string",
-                         "value":"onicon"
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Learn some"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -2004,7 +2014,12 @@
                         {
                          "name":"openWebsiteTrigger",
                          "type":"string",
-                         "value":"onicon"
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Chat GBT"
                         }],
                  "rotation":0,
                  "type":"area",
