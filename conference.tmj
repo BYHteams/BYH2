@@ -918,6 +918,11 @@
                  "value":"Door"
                 }, 
                 {
+                 "name":"openSound",
+                 "type":"string",
+                 "value":"https:\/\/www.zamzar.com\/download.php?uid=f58da3e07b2c47f363debe81525ba6-48f9d5bd6d9e188a&tcs=Z87&fileID=p1hardjlqfhdt3ma1ok71j9om2g4.mp3"
+                }, 
+                {
                  "name":"openTriggerMessage",
                  "type":"string",
                  "value":"Hi, I am Parsa, CTO & Co-Founder of BYH company."
@@ -1593,7 +1598,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":24,
          "id":101,
-         "name":"bellstep_1",
+         "name":"door_open_zone6",
          "opacity":1,
          "properties":[
                 {
@@ -1610,9 +1615,14 @@
                  "name":"bellVariable",
                  "type":"string",
                  "value":"Bell"
+                }, 
+                {
+                 "name":"zone",
+                 "type":"string",
+                 "value":"door_open_zone6"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
@@ -1825,33 +1835,6 @@
                  "y":69.2063177699658
                 }, 
                 {
-                 "height":568.100212902906,
-                 "id":31,
-                 "name":"soundEffect",
-                 "properties":[
-                        {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"float",
-                         "value":0.8
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"https:\/\/www.zamzar.com\/download.php?uid=b133930b51830b6a8f745b524a22711-b117f2e62361ed26&tcs=Z87&fileID=p1hajt2fb614h21m9ur2l128uo624.ogg"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":705.752339456355,
-                 "x":580.268356686637,
-                 "y":31.9413774322919
-                }, 
-                {
                  "height":0,
                  "id":44,
                  "name":"Door2",
@@ -2010,31 +1993,53 @@
                  "point":true,
                  "properties":[
                         {
-                         "name":"Name",
-                         "type":"string",
-                         "value":""
-                        }, 
-                        {
                          "name":"bell",
                          "type":"bool",
-                         "value":false
+                         "value":true
                         }, 
                         {
                          "name":"bellSound",
                          "type":"string",
-                         "value":""
-                        }, 
-                        {
-                         "name":"soundRadius",
-                         "type":"string",
-                         "value":""
+                         "value":"https:\/\/www.zamzar.com\/download.php?uid=f58da3e07b2c47f363debe81525ba6-48f9d5bd6d9e188a&tcs=Z87&fileID=p1hardjlqfhdt3ma1ok71j9om2g4.mp3"
                         }],
                  "rotation":0,
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":912.666666666667,
-                 "y":148.666666666667
+                 "x":904.666666666667,
+                 "y":289.166666666667
+                }, 
+                {
+                 "height":117,
+                 "id":51,
+                 "name":"bellMessage",
+                 "properties":[
+                        {
+                         "name":"bellButtonText",
+                         "type":"string",
+                         "value":"Please press \"Ring\""
+                        }, 
+                        {
+                         "name":"bellPopup",
+                         "type":"string",
+                         "value":"Ring"
+                        }, 
+                        {
+                         "name":"bellVariable",
+                         "type":"string",
+                         "value":"Bell"
+                        }, 
+                        {
+                         "name":"zone",
+                         "type":"string",
+                         "value":"door_open_zone6"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":39,
+                 "x":860,
+                 "y":262
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2243,7 +2248,7 @@
          "y":0
         }],
  "nextlayerid":102,
- "nextobjectid":49,
+ "nextobjectid":52,
  "orientation":"orthogonal",
  "properties":[
         {
