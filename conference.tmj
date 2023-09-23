@@ -1589,38 +1589,6 @@
                  "y":139
                 }, 
                 {
-                 "height":71.612250966399,
-                 "id":19,
-                 "name":"website",
-                 "properties":[
-                        {
-                         "name":"dynamic",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"{{{ websiteURL }}}"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE or touch here to open a custom website"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":96,
-                 "x":576,
-                 "y":96
-                }, 
-                {
                  "height":0,
                  "id":25,
                  "name":"Door",
@@ -1921,36 +1889,9 @@
                  "y":403.5
                 }, 
                 {
-                 "height":371.128385403773,
-                 "id":48,
-                 "name":"soundEffect",
-                 "properties":[
-                        {
-                         "name":"audioLoop",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"audioVolume",
-                         "type":"int",
-                         "value":1
-                        }, 
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":"https:\/\/www.zamzar.com\/download.php?uid=f58da3e07b2c47f363debe81525ba6-48f9d5bd6d9e188a&tcs=Z87&fileID=p1hardjlqfhdt3ma1ok71j9om2g4.mp3"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":233.476258850324,
-                 "x":343.75006189038,
-                 "y":76.8114076347972
-                }, 
-                {
                  "height":79.0929345942467,
                  "id":49,
-                 "name":"TaskWebsite",
+                 "name":"taskWebsite",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -1977,7 +1918,7 @@
                 {
                  "height":79.0929345942467,
                  "id":50,
-                 "name":"StudyWebsite",
+                 "name":"studyWebsite",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -2004,7 +1945,7 @@
                 {
                  "height":82.1349705401792,
                  "id":51,
-                 "name":"ToolsWebsite",
+                 "name":"toolsWebsite",
                  "properties":[
                         {
                          "name":"openWebsite",
@@ -2038,40 +1979,7 @@
          "draworder":"topdown",
          "id":61,
          "name":"configuration",
-         "objects":[
-                {
-                 "height":0,
-                 "id":20,
-                 "name":"websiteURL",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"https:\/\/workadventu.re\/admin-guide\/streaming-conferences"
-                        }, 
-                        {
-                         "name":"description",
-                         "type":"string",
-                         "value":"Test the website to embed with an iframe tester like https:\/\/iframetester.com\/"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Website URL"
-                        }, 
-                        {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":false
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":624.52245019328,
-                 "y":62.873476063039
-                }],
+         "objects":[],
          "opacity":1,
          "properties":[
                 {
