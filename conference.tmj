@@ -1681,14 +1681,14 @@
                         {
                          "name":"openWebsiteTriggerMessage",
                          "type":"string",
-                         "value":"Press SPACE or touch here to open a custom website"
+                         "value":"Press SPACE to cheack IN and OUT"
                         }],
                  "rotation":0,
                  "type":"area",
                  "visible":true,
                  "width":33.3333333333333,
-                 "x":349.333333333333,
-                 "y":226.666666666667
+                 "x":347.5,
+                 "y":228
                 }, 
                 {
                  "height":0,
@@ -2124,8 +2124,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":351.189116859947,
-                 "y":270.873476063039
+                 "x":328.52245019328,
+                 "y":269.540142729706
                 }],
          "opacity":1,
          "properties":[
