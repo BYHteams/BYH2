@@ -1686,9 +1686,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":96,
-                 "x":576,
-                 "y":96
+                 "width":33.3333333333333,
+                 "x":349.333333333333,
+                 "y":226.666666666667
                 }, 
                 {
                  "height":0,
@@ -2103,7 +2103,7 @@
                         {
                          "name":"default",
                          "type":"string",
-                         "value":"https:\/\/workadventu.re\/admin-guide\/streaming-conferences"
+                         "value":"https:\/\/script.google.com\/macros\/s\/AKfycbxTNwZs5R4RQCkzWBiMR8XgN2fy0qtqBX1Kvxg0IEAnIp1SY61l4g9sRpnTHWgovCF2\/exec"
                         }, 
                         {
                          "name":"description",
@@ -2124,8 +2124,8 @@
                  "type":"variable",
                  "visible":true,
                  "width":0,
-                 "x":624.52245019328,
-                 "y":62.873476063039
+                 "x":351.189116859947,
+                 "y":270.873476063039
                 }],
          "opacity":1,
          "properties":[
