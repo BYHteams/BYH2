@@ -1700,41 +1700,6 @@
                  "y":139
                 }, 
                 {
-<<<<<<< HEAD
-=======
-                 "height":71.612250966399,
-                 "id":19,
-                 "name":"website",
-                 "properties":[
-                        {
-                         "name":"dynamic",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"{{{ websiteURL }}}"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE to cheack IN and OUT"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":33.3333333333333,
-                 "x":347.5,
-                 "y":228
-                }, 
-                {
->>>>>>> 205b8b2c5e7cb21ed1795ae4d93512fe09e3198b
                  "height":0,
                  "id":25,
                  "name":"Door",
