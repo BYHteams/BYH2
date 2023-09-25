@@ -2071,44 +2071,6 @@
          "draworder":"topdown",
          "id":61,
          "name":"configuration",
-<<<<<<< HEAD
-         "objects":[],
-=======
-         "objects":[
-                {
-                 "height":0,
-                 "id":1,
-                 "name":"websiteURL",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"https:\/\/script.google.com\/macros\/s\/AKfycbxTNwZs5R4RQCkzWBiMR8XgN2fy0qtqBX1Kvxg0IEAnIp1SY61l4g9sRpnTHWgovCF2\/exec"
-                        }, 
-                        {
-                         "name":"description",
-                         "type":"string",
-                         "value":"Test the website to embed with an iframe tester like https:\/\/iframetester.com\/"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Website URL"
-                        }, 
-                        {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":false
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":335.5,
-                 "y":265
-                }],
->>>>>>> 205b8b2c5e7cb21ed1795ae4d93512fe09e3198b
          "opacity":1,
          "properties":[
                 {
