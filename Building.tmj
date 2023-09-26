@@ -3691,17 +3691,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":61.6672851518306,
-                 "id":12,
-                 "name":"clockPopup",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":83.7162209047987,
-                 "x":803.919325398621,
-                 "y":14.0269116471316
-                }, 
-                {
                  "height":128,
                  "id":13,
                  "name":"jitsiChillZone",
@@ -3781,17 +3770,6 @@
                  "width":160,
                  "x":1088,
                  "y":189
-                }, 
-                {
-                 "height":39.6969696969697,
-                 "id":17,
-                 "name":"clock",
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":50.2727272727272,
-                 "x":758.484848484849,
-                 "y":96.3333333333333
                 }, 
                 {
                  "height":0,
@@ -4437,6 +4415,16 @@
          "spacing":0,
          "tilecount":1064,
          "tileheight":32,
+         "tiles":[
+                {
+                 "id":527,
+                 "properties":[
+                        {
+                         "name":"colides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
          "tilewidth":32
         }, 
         {
