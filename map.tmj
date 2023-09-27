@@ -3456,9 +3456,19 @@
                  "value":true
                 }, 
                 {
+                 "name":"closeTriggerMessage",
+                 "type":"string",
+                 "value":"Bye"
+                }, 
+                {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"doorOpened"
+                 "value":"door"
+                }, 
+                {
+                 "name":"openTriggerMessage",
+                 "type":"string",
+                 "value":"Hi"
                 }, 
                 {
                  "name":"zone",
@@ -3760,14 +3770,9 @@
                          "value":"closed_door"
                         }, 
                         {
-                         "name":"closeTriggerMessage",
-                         "type":"string",
-                         "value":"Bye"
-                        }, 
-                        {
                          "name":"default",
                          "type":"bool",
-                         "value":true
+                         "value":false
                         }, 
                         {
                          "name":"door",
@@ -3778,11 +3783,6 @@
                          "name":"openLayer",
                          "type":"string",
                          "value":"opened_door"
-                        }, 
-                        {
-                         "name":"openTriggerMessage",
-                         "type":"string",
-                         "value":"Hi"
                         }, 
                         {
                          "name":"persist",
