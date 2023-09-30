@@ -1537,7 +1537,7 @@
                  "id":415,
                  "properties":[
                         {
-                         "name":"colides",
+                         "name":"collides",
                          "type":"bool",
                          "value":true
                         }]
