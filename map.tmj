@@ -3456,11 +3456,6 @@
                  "value":true
                 }, 
                 {
-                 "name":"closeTriggerMessage",
-                 "type":"string",
-                 "value":"Bye"
-                }, 
-                {
                  "name":"doorVariable",
                  "type":"string",
                  "value":"door"
@@ -3468,7 +3463,7 @@
                 {
                  "name":"openTriggerMessage",
                  "type":"string",
-                 "value":"Hi"
+                 "value":"Welcome To BYH Company"
                 }, 
                 {
                  "name":"zone",
