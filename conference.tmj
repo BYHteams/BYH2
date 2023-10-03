@@ -832,11 +832,6 @@
                  "value":false
                 }, 
                 {
-                 "name":"closeTriggerMessage",
-                 "type":"string",
-                 "value":"Press space to close the door"
-                }, 
-                {
                  "name":"code",
                  "type":"string",
                  "value":"19978"
@@ -845,11 +840,6 @@
                  "name":"doorVariable",
                  "type":"string",
                  "value":"door1"
-                }, 
-                {
-                 "name":"openTriggerMessage",
-                 "type":"string",
-                 "value":"Press space to open the door"
                 }, 
                 {
                  "name":"zone",
@@ -1424,11 +1414,6 @@
                          "name":"closeLayer",
                          "type":"string",
                          "value":"closeddoor1"
-                        }, 
-                        {
-                         "name":"closeTriggerMessage",
-                         "type":"string",
-                         "value":"Bye"
                         }, 
                         {
                          "name":"default",
