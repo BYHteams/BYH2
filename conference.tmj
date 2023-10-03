@@ -847,7 +847,7 @@
                  "value":"doorstep1"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":51,
          "x":0,
          "y":0
@@ -1680,6 +1680,43 @@
                  "width":0,
                  "x":927.5,
                  "y":411.5
+                }, 
+                {
+                 "height":128.5,
+                 "id":34,
+                 "name":"doorstep1",
+                 "properties":[
+                        {
+                         "name":"autoClose",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"autoOpen",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"code",
+                         "type":"string",
+                         "value":"19978"
+                        }, 
+                        {
+                         "name":"doorVariable",
+                         "type":"string",
+                         "value":"door1"
+                        }, 
+                        {
+                         "name":"zone",
+                         "type":"string",
+                         "value":"doorstep1"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":65,
+                 "x":895.5,
+                 "y":222.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1853,7 +1890,7 @@
          "y":0
         }],
  "nextlayerid":91,
- "nextobjectid":34,
+ "nextobjectid":35,
  "orientation":"orthogonal",
  "properties":[
         {
