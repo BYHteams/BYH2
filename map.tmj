@@ -3819,44 +3819,6 @@
                  "y":96.3333333333333
                 }, 
                 {
-                 "height":0,
-                 "id":23,
-                 "name":"door",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"closeLayer",
-                         "type":"string",
-                         "value":"closed_door"
-                        }, 
-                        {
-                         "name":"default",
-                         "type":"bool",
-                         "value":false
-                        }, 
-                        {
-                         "name":"door",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openLayer",
-                         "type":"string",
-                         "value":"opened_door"
-                        }, 
-                        {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":true
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":670.939393939394,
-                 "y":632.333333333333
-                }, 
-                {
                  "height":126.5,
                  "id":24,
                  "name":"website",
@@ -3926,6 +3888,44 @@
                  "width":165,
                  "x":590.606060606061,
                  "y":492.666666666667
+                }, 
+                {
+                 "height":0,
+                 "id":28,
+                 "name":"door",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"closeLayer",
+                         "type":"string",
+                         "value":"closed_door"
+                        }, 
+                        {
+                         "name":"default",
+                         "type":"bool",
+                         "value":false
+                        }, 
+                        {
+                         "name":"door",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openLayer",
+                         "type":"string",
+                         "value":"opened_door"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":670.606060606061,
+                 "y":631.666666666667
                 }],
          "offsetx":0.393939393939377,
          "offsety":0.333333333333332,
@@ -4240,7 +4240,7 @@
          "y":0
         }],
  "nextlayerid":147,
- "nextobjectid":28,
+ "nextobjectid":29,
  "orientation":"orthogonal",
  "properties":[
         {
