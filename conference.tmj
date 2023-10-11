@@ -1959,6 +1959,38 @@
                  "width":66.5,
                  "x":828,
                  "y":252
+                }, 
+                {
+                 "height":87.5,
+                 "id":37,
+                 "name":"website",
+                 "properties":[
+                        {
+                         "name":"dynamic",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1thwNekkRumvLDRmCSHnnQJ3VR5qMhuGm\/edit#gid=87822432\n"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE or touch here to open the BYH tasks"
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":64.5,
+                 "x":831,
+                 "y":31.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2237,7 +2269,7 @@
          "y":0
         }],
  "nextlayerid":99,
- "nextobjectid":37,
+ "nextobjectid":38,
  "orientation":"orthogonal",
  "properties":[
         {
