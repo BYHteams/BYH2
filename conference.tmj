@@ -1576,38 +1576,6 @@
                  "y":139
                 }, 
                 {
-                 "height":71.612250966399,
-                 "id":19,
-                 "name":"website",
-                 "properties":[
-                        {
-                         "name":"dynamic",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"{{{ websiteURL }}}"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE or touch here to open a custom website"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":96,
-                 "x":576,
-                 "y":96
-                }, 
-                {
                  "height":0,
                  "id":25,
                  "name":"door1",
@@ -1991,6 +1959,39 @@
                  "width":64.5,
                  "x":831,
                  "y":31.5
+                }, 
+                {
+                 "height":0,
+                 "id":39,
+                 "name":"websiteURL",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"default",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1thwNekkRumvLDRmCSHnnQJ3VR5qMhuGm\/edit#gid=87822432"
+                        }, 
+                        {
+                         "name":"description",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1thwNekkRumvLDRmCSHnnQJ3VR5qMhuGm\/edit#gid=87822432"
+                        }, 
+                        {
+                         "name":"label",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1thwNekkRumvLDRmCSHnnQJ3VR5qMhuGm\/edit#gid=87822432"
+                        }, 
+                        {
+                         "name":"persist",
+                         "type":"bool",
+                         "value":false
+                        }],
+                 "rotation":0,
+                 "type":"variable",
+                 "visible":true,
+                 "width":0,
+                 "x":872.5,
+                 "y":101.5
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -2002,40 +2003,7 @@
          "draworder":"topdown",
          "id":61,
          "name":"configuration",
-         "objects":[
-                {
-                 "height":0,
-                 "id":20,
-                 "name":"websiteURL",
-                 "point":true,
-                 "properties":[
-                        {
-                         "name":"default",
-                         "type":"string",
-                         "value":"https:\/\/workadventu.re\/admin-guide\/streaming-conferences"
-                        }, 
-                        {
-                         "name":"description",
-                         "type":"string",
-                         "value":"Test the website to embed with an iframe tester like https:\/\/iframetester.com\/"
-                        }, 
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Website URL"
-                        }, 
-                        {
-                         "name":"persist",
-                         "type":"bool",
-                         "value":false
-                        }],
-                 "rotation":0,
-                 "type":"variable",
-                 "visible":true,
-                 "width":0,
-                 "x":624.52245019328,
-                 "y":62.873476063039
-                }],
+         "objects":[],
          "opacity":1,
          "properties":[
                 {
@@ -2269,7 +2237,7 @@
          "y":0
         }],
  "nextlayerid":99,
- "nextobjectid":38,
+ "nextobjectid":40,
  "orientation":"orthogonal",
  "properties":[
         {
