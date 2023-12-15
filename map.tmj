@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.timeclockwizard.com\/free-online-time-card-calculator-breaks"
+                 "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1MrYlaMz4zloGHeKWhzFsC31Y8aNpxvDh\/edit#gid=964752372"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3861,6 +3861,33 @@
                  "width":0,
                  "x":670.939393939394,
                  "y":632.333333333333
+                }, 
+                {
+                 "height":61.6667,
+                 "id":24,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1MrYlaMz4zloGHeKWhzFsC31Y8aNpxvDh\/edit#gid=964752372"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onicon"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Please record your time."
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":123.333,
+                 "x":1119.27289393939,
+                 "y":1466.16665
                 }],
          "offsetx":0.393939393939377,
          "offsety":0.333333333333332,
@@ -4175,7 +4202,7 @@
          "y":0
         }],
  "nextlayerid":148,
- "nextobjectid":24,
+ "nextobjectid":25,
  "orientation":"orthogonal",
  "properties":[
         {
