@@ -73,7 +73,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1MrYlaMz4zloGHeKWhzFsC31Y8aNpxvDh\/edit#gid=964752372"
+                 "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1IYMzbhseIUMOP_ZZ8hAHntfSN3xlKHE3\/edit?usp=sharing&ouid=112062456199369504819&rtpof=true&sd=true"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -3863,34 +3863,30 @@
                  "y":632.333333333333
                 }, 
                 {
-                 "height":61.6667,
                  "id":24,
-                 "name":"",
                  "properties":[
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1MrYlaMz4zloGHeKWhzFsC31Y8aNpxvDh\/edit#gid=964752372"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onicon"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Please record your time."
+                         "value":"https:\/\/docs.google.com\/spreadsheets\/d\/1IYMzbhseIUMOP_ZZ8hAHntfSN3xlKHE3\/edit?usp=sharing&ouid=112062456199369504819&rtpof=true&sd=true"
                         }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":123.333,
-                 "x":1119.27289393939,
-                 "y":1466.16665
+                 "template":"1.tx",
+                 "x":1121.27289393939,
+                 "y":1458.83331666667
                 }],
          "offsetx":0.393939393939377,
          "offsety":0.333333333333332,
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":148,
+         "name":"Layer via Copy",
+         "objects":[],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -4201,8 +4197,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":148,
- "nextobjectid":25,
+ "nextlayerid":149,
+ "nextobjectid":27,
  "orientation":"orthogonal",
  "properties":[
         {

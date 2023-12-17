@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<template>
+ <object width="123.333" height="61.6667">
+  <properties>
+   <property name="openWebsite" value="https://docs.google.com/spreadsheets/d/1MrYlaMz4zloGHeKWhzFsC31Y8aNpxvDh/edit#gid=964752372"/>
+   <property name="openWebsiteTrigger" value="onicon"/>
+   <property name="openWebsiteTriggerMessage" value="Please record your time."/>
+  </properties>
+ </object>
+</template>
